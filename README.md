@@ -25,8 +25,9 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 | ------ | -------------------------------- |
 | **Platform Engineering** | Distributed tracing • Zero‑copy streaming • Service discovery |
 | **Networking** | QUIC / HTTP‑3 • AWS VPC • Kubernetes ingress management • Gateway architecture  |
-| **Data** | Event sourcing • Kafka MSK • Change‑data‑capture |
+| **Data** | Kafka • Event sourcing • Stream processing • Change‑data‑capture |
 | **Security** | ReBAC • Policy‑as‑code • OIDC / OAuth2 • mTLS everywhere |
+| **Architecture** | Domain-driven design • Microservices • Serverless tooling |
 
 ## 🛠️  Languages & Tooling
 <p>
