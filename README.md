@@ -9,7 +9,7 @@
 > *“Challenging problems fuel my curiosity; elegant, resilient systems are the outcome.”*
 
 I’ve spent the last decade architecting and building cloud‑native platforms across **banking**, **fin‑tech**, and **marketing tech**.  
-Right now I'm a member of the Staff Engineering forum at **Capitec** (🇿🇦), where I design, build, and release high‑throughput systems from concept to production.
+Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿🇦), where I design, build, and release high‑throughput systems from concept to production.
 
 ---
 
