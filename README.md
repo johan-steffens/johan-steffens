@@ -46,7 +46,6 @@ Right now I'm a member of the Staff Engineering forum at **Capitec** (🇿🇦),
 - Working on a minimal, Rust-powered, configuration-driven HTTP proxy (→ [foxy](https://github.com/johan-steffens/foxy))  
 - Contributing to the [Spring Boot](https://github.com/spring-projects/spring-boot) ecosystem — experimenting with **HTTP/3** support.  
 - Prototyping **policy management DSL** for runtime‑tunable route security.  
-- Speaking at local *Cape Rust* & *SA Kube* meet‑ups on **zero‑copy I/O** patterns.
 
 ## 🤝 Let’s Connect
 - [Buy me a coffee](buymeacoffee.com/johansteffens)
