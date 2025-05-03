@@ -2,7 +2,8 @@
 ### Staff Engineer, Problem‑Solver & Continuous Learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-steffens)
-![Location](https://img.shields.io/badge/South%20Africa-Flag-00AF54?style=for-the-badge&logoColor=white)
+![🇿🇦 South Africa](https://img.shields.io/badge/-🇿🇦%20South%20Africa-00AF54?style=for-the-badge)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/johansteffens)
 ![Visitors](https://komarev.com/ghpvc/?username=johan-steffens&style=for-the-badge&label=VISITORS)
 
 > *“Challenging problems fuel my curiosity; elegant, resilient systems are the outcome.”*
