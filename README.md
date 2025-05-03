@@ -1,0 +1,57 @@
+# 👋 Hi, I’m **Johan Steffens**
+### Staff Engineer, Problem‑Solver & Continuous Learner
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-steffens)
+![Location](https://img.shields.io/badge/South%20Africa-Flag-00AF54?style=for-the-badge&logoColor=white)
+![Visitors](https://komarev.com/ghpvc/?username=johan-steffens&style=for-the-badge&label=VISITORS)
+
+> *“Challenging problems fuel my curiosity; elegant, resilient systems are the outcome.”*
+
+I’ve spent the last decade architecting and building cloud‑native platforms across **banking**, **fin‑tech**, and **marketing tech**.  
+Right now I'm a member of the Staff Engineering forum at **Capitec** (🇿🇦), where I design, build, and release high‑throughput systems from concept to production.
+
+---
+
+## 🔭 Current Focus
+- **Rust‑powered edge & HTTP proxy** (→ [foxy](https://github.com/johan-steffens/foxy))  
+- Streaming telemetry & observability with *OpenTelemetry*, *Instana*, *Grafana Cloud*
+- Secure, policy‑driven microservices  on *Kubernetes*
+- Automating infrastructure with *Terraform* & *GitHub Actions*
+
+## 💡 Technical Interests
+| Domain | Topics that keep me up at night |
+| ------ | -------------------------------- |
+| **Platform Engineering** | Distributed tracing • Zero‑copy streaming • Service discovery |
+| **Networking** | QUIC / HTTP‑3 • AWS VPC • Kubernetes ingress management • Gateway architecture  |
+| **Data** | Event sourcing • Kafka MSK • Change‑data‑capture |
+| **Security** | Policy‑as‑code • OIDC / OAuth2 • mTLS everywhere |
+
+## 🛠️  Languages & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,rust,ts,aws,kubernetes,docker,terraform,git,gradle" height="40"/>
+</p>
+
+## 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johan-steffens&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-steffens&layout=compact&theme=transparent&hide=html,css" alt="Top Langs" height="165"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=johan-steffens&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## ✍️ Recent Activity
+- Working on a minimal, Rust-powered, configuration-driven HTTP proxy (→ [foxy](https://github.com/johan-steffens/foxy))  
+- Contributing to the [Spring Boot](https://github.com/spring-projects/spring-boot) ecosystem — experimenting with **HTTP/3** support.  
+- Prototyping **policy management DSL** for runtime‑tunable route security.  
+- Speaking at local *Cape Rust* & *SA Kube* meet‑ups on **zero‑copy I/O** patterns.
+
+## 🤝 Let’s Connect
+- [Buy me a coffee](buymeacoffee.com/johansteffens)
+- Check out my experience on [LinkedIn](https://www.linkedin.com/in/johan-steffens)
+- Book some time with me on [TidyCal](https://tidycal.com/johansteffens)
+- Or open an issue / discussion on any repo – I’m always keen to collaborate!
+
+---
+
+> Powered by coffee ☕, braai 🔥, and flipping meat only once.
