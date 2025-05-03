@@ -26,7 +26,7 @@ Right now I'm a member of the Staff Engineering forum at **Capitec** (🇿🇦),
 | **Platform Engineering** | Distributed tracing • Zero‑copy streaming • Service discovery |
 | **Networking** | QUIC / HTTP‑3 • AWS VPC • Kubernetes ingress management • Gateway architecture  |
 | **Data** | Event sourcing • Kafka MSK • Change‑data‑capture |
-| **Security** | Policy‑as‑code • OIDC / OAuth2 • mTLS everywhere |
+| **Security** | ReBAC • Policy‑as‑code • OIDC / OAuth2 • mTLS everywhere |
 
 ## 🛠️  Languages & Tooling
 <p>
