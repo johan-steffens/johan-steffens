@@ -14,7 +14,8 @@ Right now I'm a member of the Staff Engineering forum at **Capitec** (🇿🇦),
 ---
 
 ## 🔭 Current Focus
-- **Rust‑powered edge & HTTP proxy** (→ [foxy](https://github.com/johan-steffens/foxy))  
+- **Rust‑powered edge & HTTP proxy** (→ [foxy](https://github.com/johan-steffens/foxy))
+- Fine-grained authorisation in high-performance, mission-critical systems
 - Streaming telemetry & observability with *OpenTelemetry*, *Instana*, *Grafana Cloud*
 - Secure, policy‑driven microservices  on *Kubernetes*
 - Automating infrastructure with *Terraform* & *GitHub Actions*
