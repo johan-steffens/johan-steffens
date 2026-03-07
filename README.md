@@ -14,7 +14,7 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 ---
 
 ## 🔭 Current Focus
-- **Rust‑powered edge & HTTP proxy** (→ [foxy](https://github.com/johan-steffens/foxy))
+- Learning Rust and using it for low-latency networking primitives
 - Fine-grained authorisation in high-performance, mission-critical systems
 - Streaming telemetry & observability with *OpenTelemetry*, *Instana*, *Grafana Cloud*
 - Secure, policy‑driven microservices  on *Kubernetes*
@@ -44,8 +44,8 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 </p>
 
 ## ✍️ Recent Activity
-- Working on a minimal, Rust-powered, configuration-driven HTTP proxy (→ [foxy](https://github.com/johan-steffens/foxy))  
-- Contributing to the [Spring Boot](https://github.com/spring-projects/spring-boot) ecosystem — experimenting with **HTTP/3** support.  
+- Working on a Rust-powered, configuration-driven HTTP proxy and Gateway
+- Contributing to the [Spring Boot](https://github.com/spring-projects/spring-boot) ecosystem
 - Prototyping **policy management DSL** for runtime‑tunable route security.  
 
 ## 🤝 Let’s Connect
