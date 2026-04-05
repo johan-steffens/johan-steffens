@@ -22,7 +22,6 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 - Automating infrastructure with *Terraform* & *GitHub Actions*
 
 ## 💡 Technical Interests
-<p align="center">
 | Domain | Topics that keep me up at night |
 | ------ | -------------------------------- |
 | **Platform Engineering** | Distributed tracing • Zero‑copy streaming • Service discovery |
@@ -30,7 +29,6 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 | **Data** | Kafka • Event sourcing • Stream processing • Change‑data‑capture |
 | **Security** | ReBAC • Policy‑as‑code • OIDC / OAuth2 • mTLS everywhere |
 | **Architecture** | Domain-driven design • Microservices • Serverless tooling |
-</p>
 
 ## 🛠️  Languages & Tooling
 <p align="center">
