@@ -37,10 +37,6 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johan-steffens&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-steffens&layout=compact&theme=transparent&hide=html,css" alt="Top Langs" height="165"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=johan-steffens&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
