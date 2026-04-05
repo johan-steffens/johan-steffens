@@ -22,6 +22,7 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 - Automating infrastructure with *Terraform* & *GitHub Actions*
 
 ## 💡 Technical Interests
+<p align="center">
 | Domain | Topics that keep me up at night |
 | ------ | -------------------------------- |
 | **Platform Engineering** | Distributed tracing • Zero‑copy streaming • Service discovery |
@@ -29,9 +30,10 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 | **Data** | Kafka • Event sourcing • Stream processing • Change‑data‑capture |
 | **Security** | ReBAC • Policy‑as‑code • OIDC / OAuth2 • mTLS everywhere |
 | **Architecture** | Domain-driven design • Microservices • Serverless tooling |
+</p>
 
 ## 🛠️  Languages & Tooling
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,rust,ts,aws,kubernetes,docker,terraform,git,gradle" height="40"/>
 </p>
 
@@ -43,11 +45,6 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=johan-steffens&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-## ✍️ Recent Activity
-- Working on a Rust-powered, configuration-driven HTTP proxy and Gateway
-- Contributing to the [Spring Boot](https://github.com/spring-projects/spring-boot) ecosystem
-- Prototyping **policy management DSL** for runtime‑tunable route security.  
 
 ## 🤝 Let’s Connect
 - [Buy me a coffee](buymeacoffee.com/johansteffens)
