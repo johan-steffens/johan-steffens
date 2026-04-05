@@ -14,7 +14,7 @@ Currently I'm a member of the Staff Engineering forum at **Capitec Bank** (🇿�
 ---
 
 ## 🔭 Current Focus
-- [Scribe](https://github.com/johan-steffens/scribe) - Rust-based CLI and TUI personal assistant with sync and MCP integrations
+- [Scribe](https://github.com/johan-steffens/scribe) - Rust-based command-line and agent-driven personal productivity tool (CLI, TUI, MCP, sync)
 - Learning Rust and using it for low-latency networking primitives
 - Fine-grained authorisation in high-performance, mission-critical systems
 - Streaming telemetry & observability with *OpenTelemetry*, *Instana*, *Grafana Cloud*
