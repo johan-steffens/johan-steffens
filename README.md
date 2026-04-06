@@ -1,5 +1,5 @@
-# 👋 Hi, I’m **Johan Steffens**
-### Staff Engineer, Problem‑Solver & Continuous Learner
+# 👋 Hi, I’m **Johan**
+### Staff Engineer, Problem‑Solver, and Continuous Learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-steffens)
 ![🇿🇦 South Africa](https://img.shields.io/badge/-🇿🇦%20South%20Africa-00AF54?style=for-the-badge)
